@@ -9,10 +9,8 @@
 </div>
 
 ---
-
-<details>
-<summary>📁 Projects</summary>
-<div markdown="1">
+### <div align="center">📁 Projects</div>
+<div align="center">
 
 |기간|프로젝트|소개|바로가기|
 |:-:|:-|:-|:-:|
@@ -24,8 +22,6 @@
 |<sub>2023.04-2023.06</sub> | N/A | 머신러닝 기반 음식 배달 시간 예측 프로젝트 | |
 
 </div>
-</details>
-
 
 
 ### <div align="center">🛠 MAIN STACK</div>
