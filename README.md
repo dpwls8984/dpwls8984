@@ -16,10 +16,8 @@
 |:-:|:-|:-|:-:|
 |<sub>2025.03-2025.06</sub> | **Scheduly** | 에브리타임 API를 활용한 개인 맞춤 대학 시간표 추천 웹앱 | [🔗Github](https://github.com/Scheduly-CESCO/BE) &nbsp; [[최종발표자료 (보기)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Scheduly-CESCO/BE/main/종합설계-B4팀-최종-발표.pdf)] |
 |<sub>2024.09-2024.12</sub> | **Connect** | 은둔형 청년 대상 사회 적응 서비스 웹앱 | [🔗Github](https://github.com/Connect-GBT/Connect) &nbsp; [[최종발표자료 (보기)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Connect-GBT/Connect/main/캡스톤-최종발표.pdf)] |
-|<sub>2024.09-2024.12</sub> | Big Data | LoL 프로게이머 경기에서 승리 시 라인별 킬 관여율 분석 | [🔗Github](https://github.com/dpwls8984/BigData_24-2) &nbsp; [[발표자료 (보기)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/dpwls8984/BigData_24-2/main/빅데이터-발표자료.pdf)] |
 |<sub>2023.08-2023.12</sub> | CS317 | Website Development Project for Data Visualization of Solar System| |
 |<sub>2024.03-2024.05</sub> | CS509 | Techniques for Segmentation of Liver Tumors Using CT Scans | [📁 Final presentation.pdf](https://github.com/user-attachments/files/21302675/CS509_liver_seg.pdf)|
-|<sub>2023.04-2023.06</sub> | DAT | 다양한 머신러닝 기법을 활용한 음식 배달 시간 예측 프로젝트 | |
 
 </div>
 
