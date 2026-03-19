@@ -1,10 +1,7 @@
 <div align="center">
 
-### 🙌 Yejin's GITHUB
+# 🙌 Yejin's GITHUB
 
-<a href="https://velog.io/@yeddong/posts/">
-  <img src="https://img.shields.io/badge/yeddong.log-3DDC84?style=badge&logo=Velog&logoColor=white"/>
-</a>
 
 
 
