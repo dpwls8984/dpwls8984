@@ -5,6 +5,10 @@
 <a href="https://velog.io/@yeddong/posts/">
   <img src="https://img.shields.io/badge/yeddong.log-3DDC84?style=badge&logo=Velog&logoColor=white"/>
 </a>
+<a href="www.linkedin.com/in/yeddong">
+  <img src="https://img.shields.io/badge/yeddong.LinkedIn-1578D3?style=badge&logo=linkedin&logoColor=white"/>
+</a>  
+
 
 </div>
 
@@ -26,10 +30,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-DD6620?style=for-the-badge&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-222222?style=for-the-badge&logo=AWS&logoColor=white"/>
 
 </div>
 
