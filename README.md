@@ -5,9 +5,7 @@
 <a href="https://velog.io/@yeddong/posts/">
   <img src="https://img.shields.io/badge/yeddong.log-3DDC84?style=badge&logo=Velog&logoColor=white"/>
 </a>
-<a href="www.linkedin.com/in/yeddong">
-  <img src="https://img.shields.io/badge/yeddong.LinkedIn-1578D3?style=badge&logo=linkedin&logoColor=white"/>
-</a>  
+
 
 
 </div>
